@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-532-lab", "azure-532-lab\azure-532-lab.csproj", "{D02243E7-E6E3-4086-BB4D-92615C47ED2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02243E7-E6E3-4086-BB4D-92615C47ED2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02243E7-E6E3-4086-BB4D-92615C47ED2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02243E7-E6E3-4086-BB4D-92615C47ED2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02243E7-E6E3-4086-BB4D-92615C47ED2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48E1809B-E300-4454-BE92-D8536CB54D34}
+	EndGlobalSection
+EndGlobal
